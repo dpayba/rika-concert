@@ -28,35 +28,35 @@ function App() {
       <section className="polaroid-gallery">
         <figure className="polaroid-card">
           {/* <img src="images/IMG_1537.jpeg" /> */}
-          <img src="/soundcheck.jpg" width="300px" height="250px" />
+          <img src="soundcheck.jpg" width="300px" height="250px" />
           <figcaption>Soundcheck</figcaption>
         </figure>
         <figure className="polaroid-card">
-          <img src="/rika_isaac.jpeg" width="300px" height="250px" />
+          <img src="rika_isaac.jpeg" width="300px" height="250px" />
           <figcaption>Techical difficulties :(</figcaption>
         </figure>
         <figure className="polaroid-card">
-          <img src="/soundcheck2.jpg" width="300px" height="250px" />
+          <img src="soundcheck2.jpg" width="300px" height="250px" />
           <figcaption>More practice</figcaption>
         </figure>
         <figure className="polaroid-card">
-          <img src="/group_photo.jpeg" width="300px" height="250px" />
+          <img src="group_photo.jpeg" width="300px" height="250px" />
           <figcaption>Meeting Shaun!</figcaption>
         </figure>
         <figure className="polaroid-card">
-          <img src="/first.jpg" width="300px" height="250px" />
+          <img src="first.jpg" width="300px" height="250px" />
           <figcaption>Showtime</figcaption>
         </figure>
         <figure className="polaroid-card">
-          <img src="/rika_sitting.jpg" width="300px" height="250px" />
+          <img src="rika_sitting.jpg" width="300px" height="250px" />
           <figcaption>Getting comfortable</figcaption>
         </figure>
         <figure className="polaroid-card">
-          <img src="/rika_sariyah.jpg" width="300px" height="250px" />
+          <img src="rika_sariyah.jpg" width="300px" height="250px" />
           <figcaption>w/ Sariyah</figcaption>
         </figure>
         <figure className="polaroid-card">
-          <img src="/love.jpeg" width="300px" height="250px" />
+          <img src="love.jpeg" width="300px" height="250px" />
           <figcaption>Fanboys...</figcaption>
         </figure>
       </section>
@@ -65,34 +65,34 @@ function App() {
       <p className="photo-gallery-text">Just a bunch of clips from throughout the night</p>
       <div class="video-container">
         <div class="video">
-          <video src="/playboy_1.mp4" onClick={handleVideoClick}></video>
+          <video src="playboy_1.mp4" onClick={handleVideoClick}></video>
         </div>
         <div class="video">
-          <video src="/playboy_2.mp4" onClick={handleVideoClick}></video>
+          <video src="playboy_2.mp4" onClick={handleVideoClick}></video>
         </div>
         <div class="video">
-          <video src="/genie_1.mp4" onClick={handleVideoClick}></video>
+          <video src="genie_1.mp4" onClick={handleVideoClick}></video>
         </div>
         <div class="video">
-          <video src="/genie_2.mp4" onClick={handleVideoClick}></video>
+          <video src="genie_2.mp4" onClick={handleVideoClick}></video>
         </div>
         <div class="video">
-          <video src="/cupid_1.mp4" onClick={handleVideoClick}></video>
+          <video src="cupid_1.mp4" onClick={handleVideoClick}></video>
         </div>
         <div class="video">
-          <video src="/cupid_2.mp4" onClick={handleVideoClick}></video>
+          <video src="cupid_2.mp4" onClick={handleVideoClick}></video>
         </div>
         <div class="video">
-          <video src="/addicted_1.mp4" onClick={handleVideoClick}></video>
+          <video src="addicted_1.mp4" onClick={handleVideoClick}></video>
         </div>
         <div class="video">
-          <video src="/addicted_2.mp4" onClick={handleVideoClick}></video>
+          <video src="addicted_2.mp4" onClick={handleVideoClick}></video>
         </div>
         <div class="video">
-          <video src="/goodbye_1.mp4" onClick={handleVideoClick}></video>
+          <video src="goodbye_1.mp4" onClick={handleVideoClick}></video>
         </div>
         <div class="video">
-          <video src="/goodbye_2.mp4" onClick={handleVideoClick}></video>
+          <video src="goodbye_2.mp4" onClick={handleVideoClick}></video>
         </div>
       </div>
 
