@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rika-concert/precache-manifest.47df2839fe47ee84f03943399aa3f620.js"
+  "/rika-concert/precache-manifest.bd879676835df17037a7b9ea3439de87.js"
 );
 
 self.addEventListener('message', (event) => {
