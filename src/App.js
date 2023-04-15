@@ -65,37 +65,37 @@ function App() {
       <p className="photo-gallery-text">Just a bunch of clips from throughout the night</p>
       <div class="video-container">
         <div class="video">
-          <video src="playboy_1.mp4" poster="first.jpg" onClick={handleVideoClick}></video>
+          <video src="playboy_1.mp4" poster="poster_1.jpg" onClick={handleVideoClick}></video>
         </div>
         <div class="video">
-          <video src="playboy_1.mp4" onClick={handleVideoClick}></video>
+          <video src="playboy_1.mp4" poster="poster_2.jpg" onClick={handleVideoClick}></video>
         </div>
         <div class="video">
-          <video src="playboy_2.mp4" onClick={handleVideoClick}></video>
+          <video src="playboy_2.mp4"poster="poster_3.jpg" onClick={handleVideoClick}></video>
         </div>
         <div class="video">
-          <video src="genie_1.mp4" onClick={handleVideoClick}></video>
+          <video src="genie_1.mp4" poster="poster_4.jpg" onClick={handleVideoClick}></video>
         </div>
         <div class="video">
-          <video src="genie_2.mp4" onClick={handleVideoClick}></video>
+          <video src="genie_2.mp4" poster="poster_5.jpg" onClick={handleVideoClick}></video>
         </div>
         <div class="video">
-          <video src="cupid_1.mp4" onClick={handleVideoClick}></video>
+          <video src="cupid_1.mp4" poster="poster_6.jpg" onClick={handleVideoClick}></video>
         </div>
         <div class="video">
-          <video src="cupid_2.mp4" onClick={handleVideoClick}></video>
+          <video src="cupid_2.mp4" poster="poster_7.jpg" onClick={handleVideoClick}></video>
         </div>
         <div class="video">
-          <video src="addicted_1.mp4" onClick={handleVideoClick}></video>
+          <video src="addicted_1.mp4" poster="poster_8.jpg" onClick={handleVideoClick}></video>
         </div>
         <div class="video">
-          <video src="addicted_2.mp4" onClick={handleVideoClick}></video>
+          <video src="addicted_2.mp4" poster="poster_9.jpg" onClick={handleVideoClick}></video>
         </div>
         <div class="video">
-          <video src="goodbye_1.mp4" onClick={handleVideoClick}></video>
+          <video src="goodbye_1.mp4" poster="poster_10.jpg" onClick={handleVideoClick}></video>
         </div>
         <div class="video">
-          <video src="goodbye_2.mp4" onClick={handleVideoClick}></video>
+          <video src="goodbye_2.mp4" poster="poster_11.jpg" onClick={handleVideoClick}></video>
         </div>
       </div>
 
