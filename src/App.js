@@ -65,6 +65,9 @@ function App() {
       <p className="photo-gallery-text">Just a bunch of clips from throughout the night</p>
       <div class="video-container">
         <div class="video">
+          <video src="playboy_1.mp4" poster="first.jpg" onClick={handleVideoClick}></video>
+        </div>
+        <div class="video">
           <video src="playboy_1.mp4" onClick={handleVideoClick}></video>
         </div>
         <div class="video">
