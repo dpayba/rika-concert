@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/rika-concert/static/css/main.ee5960e6.chunk.css",
-    "main.js": "/rika-concert/static/js/main.68d580e5.chunk.js",
-    "main.js.map": "/rika-concert/static/js/main.68d580e5.chunk.js.map",
-    "runtime-main.js": "/rika-concert/static/js/runtime-main.51eac006.js",
-    "runtime-main.js.map": "/rika-concert/static/js/runtime-main.51eac006.js.map",
-    "static/js/2.2c8bc25c.chunk.js": "/rika-concert/static/js/2.2c8bc25c.chunk.js",
-    "static/js/2.2c8bc25c.chunk.js.map": "/rika-concert/static/js/2.2c8bc25c.chunk.js.map",
-    "index.html": "/rika-concert/index.html",
-    "precache-manifest.60c415c465a54e95dcb1a1b84777b9d2.js": "/rika-concert/precache-manifest.60c415c465a54e95dcb1a1b84777b9d2.js",
-    "service-worker.js": "/rika-concert/service-worker.js",
-    "static/css/main.ee5960e6.chunk.css.map": "/rika-concert/static/css/main.ee5960e6.chunk.css.map",
-    "static/js/2.2c8bc25c.chunk.js.LICENSE.txt": "/rika-concert/static/js/2.2c8bc25c.chunk.js.LICENSE.txt"
+    "main.css": "/www.rikaxshaun.live/static/css/main.ee5960e6.chunk.css",
+    "main.js": "/www.rikaxshaun.live/static/js/main.68d580e5.chunk.js",
+    "main.js.map": "/www.rikaxshaun.live/static/js/main.68d580e5.chunk.js.map",
+    "runtime-main.js": "/www.rikaxshaun.live/static/js/runtime-main.87d14d91.js",
+    "runtime-main.js.map": "/www.rikaxshaun.live/static/js/runtime-main.87d14d91.js.map",
+    "static/js/2.5d68e0c7.chunk.js": "/www.rikaxshaun.live/static/js/2.5d68e0c7.chunk.js",
+    "static/js/2.5d68e0c7.chunk.js.map": "/www.rikaxshaun.live/static/js/2.5d68e0c7.chunk.js.map",
+    "index.html": "/www.rikaxshaun.live/index.html",
+    "precache-manifest.2ae83e0f9e58e08c4c57bd3c5219b897.js": "/www.rikaxshaun.live/precache-manifest.2ae83e0f9e58e08c4c57bd3c5219b897.js",
+    "service-worker.js": "/www.rikaxshaun.live/service-worker.js",
+    "static/css/main.ee5960e6.chunk.css.map": "/www.rikaxshaun.live/static/css/main.ee5960e6.chunk.css.map",
+    "static/js/2.5d68e0c7.chunk.js.LICENSE.txt": "/www.rikaxshaun.live/static/js/2.5d68e0c7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.51eac006.js",
-    "static/js/2.2c8bc25c.chunk.js",
+    "static/js/runtime-main.87d14d91.js",
+    "static/js/2.5d68e0c7.chunk.js",
     "static/css/main.ee5960e6.chunk.css",
     "static/js/main.68d580e5.chunk.js"
   ]
