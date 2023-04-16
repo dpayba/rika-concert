@@ -63,6 +63,7 @@ function App() {
 
       <h1 className="photo-gallery-title">Video Gallery</h1>
       <p className="photo-gallery-text">Just a bunch of clips from throughout the night</p>
+      <p className="photo-gallery-text">Click on the video to play and click on it again to close out</p>
       <div class="video-container">
         <div class="video">
           <video src="playboy_1.mp4" poster="poster_1.jpg" onClick={handleVideoClick}></video>
@@ -101,6 +102,7 @@ function App() {
       <h1 className="photo-gallery-title">Photo Gallery</h1>
       <UploadForm />
       <p className ="photo-gallery-text">Feel free to add any other pictures by clicking the + above :)</p>
+      <p className ="photo-gallery-text">Click on photo to enlarge, tap and hold to save to camera roll</p>
       <ImageGrid setSelectedImg={setSelectedImg} />
       { selectedImg && (
         <Modal selectedImg={selectedImg} setSelectedImg={setSelectedImg} />
