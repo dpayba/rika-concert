@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rika-concert/static/css/main.ee5960e6.chunk.css",
+    "main.css": "/rika-concert/static/css/main.b8f73971.chunk.css",
     "main.js": "/rika-concert/static/js/main.e40f3b7e.chunk.js",
     "main.js.map": "/rika-concert/static/js/main.e40f3b7e.chunk.js.map",
     "runtime-main.js": "/rika-concert/static/js/runtime-main.51eac006.js",
@@ -8,15 +8,15 @@
     "static/js/2.2c8bc25c.chunk.js": "/rika-concert/static/js/2.2c8bc25c.chunk.js",
     "static/js/2.2c8bc25c.chunk.js.map": "/rika-concert/static/js/2.2c8bc25c.chunk.js.map",
     "index.html": "/rika-concert/index.html",
-    "precache-manifest.1c54207cd9a06bbcf6faf15a4dae2c47.js": "/rika-concert/precache-manifest.1c54207cd9a06bbcf6faf15a4dae2c47.js",
+    "precache-manifest.d5657639a4e171261d75b588f7527f0e.js": "/rika-concert/precache-manifest.d5657639a4e171261d75b588f7527f0e.js",
     "service-worker.js": "/rika-concert/service-worker.js",
-    "static/css/main.ee5960e6.chunk.css.map": "/rika-concert/static/css/main.ee5960e6.chunk.css.map",
+    "static/css/main.b8f73971.chunk.css.map": "/rika-concert/static/css/main.b8f73971.chunk.css.map",
     "static/js/2.2c8bc25c.chunk.js.LICENSE.txt": "/rika-concert/static/js/2.2c8bc25c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.51eac006.js",
     "static/js/2.2c8bc25c.chunk.js",
-    "static/css/main.ee5960e6.chunk.css",
+    "static/css/main.b8f73971.chunk.css",
     "static/js/main.e40f3b7e.chunk.js"
   ]
 }
