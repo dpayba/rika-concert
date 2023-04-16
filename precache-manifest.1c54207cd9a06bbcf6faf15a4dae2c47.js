@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "17af41a8ae46da1f64d306aa3f00fba6",
+    "revision": "36d083b4ad62c665acb71f727db121da",
     "url": "/rika-concert/index.html"
   },
   {
-    "revision": "f98f010919a86a7994d6",
+    "revision": "61e95ce7b6d04f65f43e",
     "url": "/rika-concert/static/css/main.ee5960e6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rika-concert/static/js/2.2c8bc25c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f98f010919a86a7994d6",
-    "url": "/rika-concert/static/js/main.68d580e5.chunk.js"
+    "revision": "61e95ce7b6d04f65f43e",
+    "url": "/rika-concert/static/js/main.e40f3b7e.chunk.js"
   },
   {
     "revision": "33749c275d5528b66d63",
